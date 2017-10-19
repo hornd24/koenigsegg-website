@@ -1,0 +1,29 @@
+h1{ font-weight:bold;
+    font-size:85px;
+    text-align:center;
+}
+    
+
+}
+.maincontent{float:left;
+    height: 100%;
+    width: 90%;
+    overflow:auto;
+}
+.sidebar{ float:left;
+    height: 100%;
+    width: 10%;
+    border-width: 5px;
+    border-color: goldenrod;
+    border-style:double;
+    text-decoration: none;
+    align-content: left;
+    font-size:20px;
+    font-weight: bolder;
+    
+}
+img{ width: 400px;
+    display: block;
+    margin: auto;
+
+}
