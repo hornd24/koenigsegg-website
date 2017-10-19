@@ -1,6 +1,13 @@
 .back2{ background-color: brown;
 
 }
-#kk{color:blue;
+#head{ color:blue;
+    font-size: 80px;
+    text-align: center;
+
+}
+img{ width:800px;
+    display: block;
+    margin: auto;
 
 }
