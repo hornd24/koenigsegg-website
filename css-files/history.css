@@ -1,5 +1,6 @@
 .t1{font-size:auto;
     text align:auto;
+    font-family: 'Dosis', sans-serif;
     
 
 }
@@ -25,5 +26,9 @@ p{ color:whitesmoke;
 
 }
 .cap{ color: whitesmoke;
+    font-family: 'Nosifer', cursive;
+
+}
+.t2{font-family: 'Lobster', cursive;
 
 }
